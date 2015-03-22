@@ -1,0 +1,6 @@
+customer, street, city, state, zip, cardNO, expected
+Mike, Lenina, Kiev, NULL, 02105, 1234234534564567, Mike
+Vitalii, Hmyri, Borispol, Kiev, 00001, 987654321, Vitalii
+Alexey, 987, Varshava, Varshava, 02140, 1234567890123456, Alexey
+Lyuba, 789, New-York, New-York, 12345, 6543210987654321, Lyuba
+Vasya, Pushkina, Fastov, Kiev, 54321, 123, Vasya

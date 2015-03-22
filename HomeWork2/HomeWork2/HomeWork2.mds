@@ -91,6 +91,7 @@
 			<Node name="script\unit1.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
+			<Node name="stores\files\input.csv"/>
 			<Node name="stores\objects.tcobjects"/>
 			<Node name="stores\regions.tcregions"/>
 			<Node name="stores\stores.tcstores"/>

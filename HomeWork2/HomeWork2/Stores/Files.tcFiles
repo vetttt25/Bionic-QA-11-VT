@@ -19,7 +19,25 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="child list"/>
+		<Node name="child list">
+			<Node name="item0000000000">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="7.50"/>
+					</Node>
+					<Prp name="caption" type="S" value="input.csv"/>
+					<Prp name="filename" type="S" value="Files\input.csv"/>
+					<Prp name="id" type="S" value="{562932A2-8079-4B03-BE77-DE4D4CDE0ECF}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="-1"/>
+					<Prp name="version" type="S" value="7.0"/>
+				</Node>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="key" type="S" value="{562932A2-8079-4B03-BE77-DE4D4CDE0ECF}"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+		</Node>
 		<Node name="folders">
 			<Node name="folders"/>
 		</Node>
