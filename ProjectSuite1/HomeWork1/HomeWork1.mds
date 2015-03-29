@@ -82,9 +82,9 @@
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 		</Node>
 		<Node name="files">
+			<Node name="..\[kma-tst-trainee]\homework1\homework1.mds.tcls"/>
 			<Node name="events\events.tcax"/>
 			<Node name="homework1.mds"/>
-			<Node name="homework1.mds.tcls"/>
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="keywordtests\test1.tckdtest"/>
 			<Node name="keywordtests\test2.tckdtest"/>
